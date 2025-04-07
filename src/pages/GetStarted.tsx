@@ -11,12 +11,12 @@ const GetStarted = () => {
       <Navbar />
       <div className="flex-grow container mx-auto px-4 py-12">
         <div className="max-w-3xl mx-auto">
-          <h1 className="text-3xl md:text-4xl font-bold mb-6 text-safety-800">Get Started with SafetyFirst</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-6 text-safety-800">Get Started with HelpOnWrist</h1>
           
           <div className="bg-white p-6 md:p-8 rounded-lg shadow-md mb-8">
             <h2 className="text-xl font-semibold mb-4 text-safety-700">Step 1: Connect Your Wearable Device</h2>
             <p className="text-gray-600 mb-6">
-              SafetyFirst works with most popular smartwatches and fitness trackers that can monitor heart rate,
+              HelpOnWrist works with most popular smartwatches and fitness trackers that can monitor heart rate,
               skin temperature, and other vital signs.
             </p>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">

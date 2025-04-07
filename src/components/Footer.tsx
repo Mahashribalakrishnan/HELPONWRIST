@@ -60,12 +60,12 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center py-8 border-t border-gray-800">
           <div className="text-gray-400 mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} SafetyFirst Response Hub. All rights reserved.
+            &copy; {new Date().getFullYear()} HelpOnWrist Response Hub. All rights reserved.
           </div>
           <div className="flex items-center space-x-6">
             <a href="#" className="text-gray-400 hover:text-white transition-colors flex items-center">
               <Mail className="w-4 h-4 mr-2" />
-              <span>support@safetyfirst.com</span>
+              <span>support@helponwrist.com</span>
             </a>
             <a href="#" className="text-gray-400 hover:text-white transition-colors flex items-center">
               <Phone className="w-4 h-4 mr-2" />
