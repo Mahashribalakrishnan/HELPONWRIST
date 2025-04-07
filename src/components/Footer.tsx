@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="w-8 h-8 text-safety-500" />
               <span className="font-bold text-xl text-white">
-                HelpOn<span className="text-emergency-500">Wirst</span>
+                HelpOn<span className="text-emergency-500">Wrist</span>
               </span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">

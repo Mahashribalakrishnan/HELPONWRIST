@@ -27,7 +27,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <Shield className="w-8 h-8 text-safety-600" />
             <span className="font-bold text-xl text-safety-800">
-              HelpOn<span className="text-emergency-500">Wirst</span>
+              HelpOn<span className="text-emergency-500">Wrist</span>
             </span>
           </Link>
 
